@@ -23,12 +23,12 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=["Topsis-Samarjeet-102103562"],
+    packages=["Topsis_Samarjeet_102103562"],
     include_package_data=True,
     install_requires="pandas",
     entry_points={
-        "console_scripts": [
-            "topsis=Topsis-Samarjeet-102103562:main",
-        ]
-    },
+    "console_scripts": [
+        "topsis=Topsis_Samarjeet_102103562:main",
+    ]
+},
 )

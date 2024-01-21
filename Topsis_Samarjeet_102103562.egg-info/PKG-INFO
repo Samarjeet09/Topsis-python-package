@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: Topsis-Samarjeet-102103562
+Version: 1.0.0
+Summary: A Python package designed for performing Topsis analysis in the context of multiple-criteria decision making (MCDM). This package generates Topsis scores and ranks items accordingly.
+Home-page: https://github.com/Samarjeet09/Topsis-python-package
+Author: Samarjeet Singh
+Author-email: singhsamarjeet09@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: license.txt
+Requires-Dist: pandas
+
 ## Topsis-python-package
 
 
@@ -33,7 +48,7 @@ and greatest distance from the negative-ideal solution.
 ## How to install this package:
 
 ```
->> pip install Topsis_Samarjeet_102103562
+>> pip install Topsis-Samarjeet-102103562
 ```
 
 ### In Command Prompt
