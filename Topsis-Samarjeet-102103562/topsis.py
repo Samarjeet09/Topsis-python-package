@@ -86,7 +86,7 @@ def main():
         print(newDf)
 
         try:
-            newDf.to_csv(args.Output_File)
+            newDf.to_csv(args.Output_File,index=False)
             print("File exported as ", args.Output_File)
         except:
             print("error in exporting file")
